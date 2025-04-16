@@ -1,5 +1,5 @@
 # Visual-Question-Answer
-An easy and simple implementation of Visual Question Answer (VQA) in TensorFlow and PyTorch (coming soon).
+An easy and simple implementation of Visual Question Answer (VQA) in TensorFlow and PyTorch.
 
 Download the dataset: [Easy VQA]( https://github.com/vzhou842/easy-VQA/tree/master/easy_vqa/data)
 
